@@ -1,0 +1,15 @@
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\bin\Debug\net6.0\1st.exe
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\bin\Debug\net6.0\1st.deps.json
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\bin\Debug\net6.0\1st.runtimeconfig.json
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\bin\Debug\net6.0\1st.dll
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\bin\Debug\net6.0\1st.pdb
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.csproj.AssemblyReference.cache
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.AssemblyInfoInputs.cache
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.AssemblyInfo.cs
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.csproj.CoreCompileInputs.cache
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.dll
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\refint\1st.dll
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.pdb
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\1st.genruntimeconfig.cache
+C:\Users\Phili\OneDrive\Рабочий стол\GB\1st\obj\Debug\net6.0\ref\1st.dll
