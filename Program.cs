@@ -12,7 +12,7 @@ WriteLine();
 
 if(GetNumberOfRequiredElements(Array)==0)
 {
-    WriteLine($"В заданном массиве нет искомых элементов");
+    WriteLine("В заданном массиве нет искомых элементов");
     WriteLine("[]");
 }
 else 
